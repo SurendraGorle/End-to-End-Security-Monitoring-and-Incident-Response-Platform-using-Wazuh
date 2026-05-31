@@ -128,79 +128,79 @@ Successfully implemented and validated end-to-end Suricata IDS integration with 
 ## Screenshots
 
 ### 01_Pre_Installation_Check
-![01_Pre_Installation_Check](../Screenshots/01_Pre_Installation_Check.png)
+![01_Pre_Installation_Check](../Screenshots/Suricata/01_Pre_Installation_Check.png)
 
 ### 02_Suricata_Installed
-![02_Suricata_Installed](../Screenshots/02_Suricata_Installed.png)
+![02_Suricata_Installed](../Screenshots/Suricata/Suricata/02_Suricata_Installed.png)
 
 ### 03_Suricata_Config_Test_Failed
-![03_Suricata_Config_Test_Failed](../Screenshots/03_Suricata_Config_Test_Failed.png)
+![03_Suricata_Config_Test_Failed](../Screenshots/Suricata/03_Suricata_Config_Test_Failed.png)
 
 ### 04_Rules_Directory_Verification
-![04_Rules_Directory_Verification](../Screenshots/04_Rules_Directory_Verification.png)
+![04_Rules_Directory_Verification](../Screenshots/Suricata/04_Rules_Directory_Verification.png)
 
 ### 05_Missing_Rule_File_Verification
-![05_Missing_Rule_File_Verification](../Screenshots/05_Missing_Rule_File_Verification.png)
+![05_Missing_Rule_File_Verification](../Screenshots/Suricata/05_Missing_Rule_File_Verification.png)
 
 ### 06_Suricata_Rules_Updated
-![06_Suricata_Rules_Updated](../Screenshots/06_Suricata_Rules_Updated.png)
+![06_Suricata_Rules_Updated](../Screenshots/Suricata/06_Suricata_Rules_Updated.png)
 
 ### 07_Suricata_Rule_File_Verified
-![07_Suricata_Rule_File_Verified](../Screenshots/07_Suricata_Rule_File_Verified.png)
+![07_Suricata_Rule_File_Verified](../Screenshots/Suricata/07_Suricata_Rule_File_Verified.png)
 
 ### 08_Suricata_Config_Backup
-![08_Suricata_Config_Backup](../Screenshots/08_Suricata_Config_Backup.png)
+![08_Suricata_Config_Backup](../Screenshots/Suricata/08_Suricata_Config_Backup.png)
 
 ### 09_Rule_Path_Updated
-![09_Rule_Path_Updated](../Screenshots/09_Rule_Path_Updated.png)
+![09_Rule_Path_Updated](../Screenshots/Suricata/09_Rule_Path_Updated.png)
 
 ### 10_Config_Test_Success
-![10_Config_Test_Success](../Screenshots/10_Config_Test_Success.png)
+![10_Config_Test_Success](../Screenshots/Suricata/10_Config_Test_Success.png)
 
 ### 11_Suricata_Service_Running
-![11_Suricata_Service_Running](../Screenshots/11_Suricata_Service_Running.png)
+![11_Suricata_Service_Running](../Screenshots/Suricata/11_Suricata_Service_Running.png)
 
 ### 12_Eve_JSON_Verified
-![12_Eve_JSON_Verified](../Screenshots/12_Eve_JSON_Verified.png)
+![12_Eve_JSON_Verified](../Screenshots/Suricata/12_Eve_JSON_Verified.png)
 
 ### 13_Eve_JSON_Monitoring_Check
-![13_Eve_JSON_Monitoring_Check](../Screenshots/13_Eve_JSON_Monitoring_Check.png)
+![13_Eve_JSON_Monitoring_Check](../Screenshots/Suricata/13_Eve_JSON_Monitoring_Check.png)
 
 ### 14_Wazuh_Config_Backup
-![14_Wazuh_Config_Backup](../Screenshots/14_Wazuh_Config_Backup.png)
+![14_Wazuh_Config_Backup](../Screenshots/Suricata/14_Wazuh_Config_Backup.png)
 
 ### 15_Eve_JSON_Added_To_Wazuh
-![15_Eve_JSON_Added_To_Wazuh](../Screenshots/15_Eve_JSON_Added_To_Wazuh.png)
+![15_Eve_JSON_Added_To_Wazuh](../Screenshots/Suricata/15_Eve_JSON_Added_To_Wazuh.png)
 
 ### 16_Wazuh_Agent_Restart
-![16_Wazuh_Agent_Restart](../Screenshots/16_Wazuh_Agent_Restart.png)
+![16_Wazuh_Agent_Restart](../Screenshots/Suricata/16_Wazuh_Agent_Restart.png)
 
 ### 17_Wazuh_Agent_Log_Check
-![17_Wazuh_Agent_Log_Check](../Screenshots/17_Wazuh_Agent_Log_Check.png)
+![17_Wazuh_Agent_Log_Check](../Screenshots/Suricata/17_Wazuh_Agent_Log_Check.png)
 
 ### 18_Eve_JSON_Event_Verification
-![18_Eve_JSON_Event_Verification](../Screenshots/18_Eve_JSON_Event_Verification.png)
+![18_Eve_JSON_Event_Verification](../Screenshots/Suricata/18_Eve_JSON_Event_Verification.png)
 
 ### 19_Interface_Mismatch_Identified
-![19_Interface_Mismatch_Identified](../Screenshots/19_Interface_Mismatch_Identified.png)
+![19_Interface_Mismatch_Identified](../Screenshots/Suricata/19_Interface_Mismatch_Identified.png)
 
 ### 20_Interface_Config_Updated
-![20_Interface_Config_Updated](../Screenshots/20_Interface_Config_Updated.png)
+![20_Interface_Config_Updated](../Screenshots/Suricata/20_Interface_Config_Updated.png)
 
 ### 21_Packet_Capture_Verified
-![21_Packet_Capture_Verified](../Screenshots/21_Packet_Capture_Verified.png)
+![21_Packet_Capture_Verified](../Screenshots/Suricata/21_Packet_Capture_Verified.png)
 
 ### 22_Suricata_Traffic_Inspection_Verified
-![22_Suricata_Traffic_Inspection_Verified](../Screenshots/22_Suricata_Traffic_Inspection_Verified.png)
+![22_Suricata_Traffic_Inspection_Verified](../Screenshots/Suricata/22_Suricata_Traffic_Inspection_Verified.png)
 
 ### 23_Suricata_Alert_Received_In_Wazuh
-![23_Suricata_Alert_Received_In_Wazuh](../Screenshots/23_Suricata_Alert_Received_In_Wazuh.png)
+![23_Suricata_Alert_Received_In_Wazuh](../Screenshots/Suricata/23_Suricata_Alert_Received_In_Wazuh.png)
 
 ### 24_Nmap_Scan_From_Kali
-![24_Nmap_Scan_From_Kali](../Screenshots/24_Nmap_Scan_From_Kali.png)
+![24_Nmap_Scan_From_Kali](../Screenshots/Suricata/24_Nmap_Scan_From_Kali.png)
 
 ### 25_Nmap_Traffic_Detected_By_Suricata
-![25_Nmap_Traffic_Detected_By_Suricata](../Screenshots/25_Nmap_Traffic_Detected_By_Suricata.png)
+![25_Nmap_Traffic_Detected_By_Suricata](../Screenshots/Suricata/25_Nmap_Traffic_Detected_By_Suricata.png)
 
 ### 26_Suricata_Alert_Forwarded_To_Wazuh
-![26_Suricata_Alert_Forwarded_To_Wazuh](../Screenshots/26_Suricata_Alert_Forwarded_To_Wazuh.png)
+![26_Suricata_Alert_Forwarded_To_Wazuh](../Screenshots/Suricata/26_Suricata_Alert_Forwarded_To_Wazuh.png)
