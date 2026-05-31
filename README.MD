@@ -24,12 +24,13 @@ The lab includes:
 | ------------ | --------------- |
 | Wazuh Server | 192.168.163.130 |
 | Ubuntu Agent | 192.168.163.133 |
+| Kali Linux   | 192.168.163.129
 
 ## Current Progress
 
 * [x] Architecture Setup
 * [x] File Integrity Monitoring (FIM)
-* [ ] Network Intrusion Detection (Suricata)
+* [x] Network Intrusion Detection (Suricata)
 * [ ] Vulnerability Detection
 * [ ] Auditd Monitoring
 * [ ] Custom Rules
@@ -39,6 +40,29 @@ The lab includes:
 * [ ] Phishing Detection
 * [ ] Host Isolation
 * [ ] Sysmon Integration
+
+## Documentation
+
+| Module | Documentation |
+|----------|----------|
+| File Integrity Monitoring | Documentation/FIM.md |
+| Suricata IDS Integration | Documentation/Suricata.md |
+
+## Completed Security Validations
+
+### File Integrity Monitoring
+- File Creation Detection
+- File Modification Detection
+- File Deletion Detection
+- Alert Verification in Wazuh
+
+### Suricata IDS
+- Suricata Installation
+- Rule Management
+- Traffic Monitoring
+- Wazuh Integration
+- Nmap Reconnaissance Detection
+- Alert Correlation
 
 ## Project Status
 

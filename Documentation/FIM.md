@@ -231,17 +231,38 @@ modification events can indicate compromise.
 
 ## Screenshots
 
-* 01_FIM_Config_Backup.png
-* 02_FIM_Config_After.png
-* 03_FIM_Agent_Restart.png
-* 04_FIM_Before_Test.png
-* 05_FIM_Test_File_Created.png
-* 06_FIM_File_Added_Alert.png
-* 07_FIM_File_Modified.png
-* 08_FIM_Modification_Alert.png
-* 09_FIM_Before_Delete.png
-* 10_FIM_File_Deleted.png
-* 11_FIM_Deletion_Alert.png
+### 01_FIM_Config_Backup
+![01_FIM_Config_Backup](../Screenshots/FIM/01_FIM_Config_Backup.png)
+
+### 02_FIM_Config_After
+![02_FIM_Config_After](../Screenshots/FIM/02_FIM_Config_After.png)
+
+### 03_FIM_Agent_Restart
+![03_FIM_Agent_Restart](../Screenshots/FIM/03_FIM_Agent_Restart.png)
+
+### 04_FIM_Before_Test
+![04_FIM_Before_Test](../Screenshots/FIM/04_FIM_Before_Test.png)
+
+### 05_FIM_Test_File_Created
+![05_FIM_Test_File_Created](../Screenshots/FIM/05_FIM_Test_File_Created.png)
+
+### 06_FIM_File_Added_Alert
+![06_FIM_File_Added_Alert](../Screenshots/FIM/06_FIM_File_Added_Alert.png)
+
+### 07_FIM_File_Modified
+![07_FIM_File_Modified](../Screenshots/FIM/07_FIM_File_Modified.png)
+
+### 08_FIM_Modification_Alert
+![08_FIM_Modification_Alert](../Screenshots/FIM/08_FIM_Modification_Alert.png)
+
+### 09_FIM_Before_Delete
+![09_FIM_Before_Delete](../Screenshots/FIM/09_FIM_Before_Delete.png)
+
+### 10_FIM_File_Deleted
+![10_FIM_File_Deleted](../Screenshots/FIM/10_FIM_File_Deleted.png)
+
+### 11_FIM_Deletion_Alert
+![11_FIM_Deletion_Alert](../Screenshots/FIM/11_FIM_Deletion_Alert.png)
 
 ---
 
