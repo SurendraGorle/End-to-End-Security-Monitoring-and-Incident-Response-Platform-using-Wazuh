@@ -28,18 +28,18 @@ The lab includes:
 
 ## Current Progress
 
-[x] Architecture Setup
-[x] File Integrity Monitoring (FIM)
-[x] Network Intrusion Detection (Suricata)
-[x] Vulnerability Detection
-[ ] Auditd Monitoring
-[ ] Custom Rules
-[ ] SSH Brute Force Detection
-[ ] Active Response
-[ ] VirusTotal Integration
-[ ] Phishing Detection
-[ ] Host Isolation
-[ ] Sysmon Integration
+- [x] Architecture Setup
+- [x] File Integrity Monitoring (FIM)
+- [x] Network Intrusion Detection (Suricata)
+- [x] Vulnerability Detection
+- [ ] Auditd Monitoring
+- [ ] Custom Rules
+- [ ] SSH Brute Force Detection
+- [ ] Active Response
+- [ ] VirusTotal Integration
+- [ ] Phishing Detection
+- [ ] Host Isolation
+- [ ] Sysmon Integration
 
 ## Documentation
 
@@ -47,6 +47,7 @@ The lab includes:
 |----------|----------|
 | File Integrity Monitoring | Documentation/FIM.md |
 | Suricata IDS Integration | Documentation/Suricata.md |
+| Vulnerability Detection | Documentation/Vulnerability_Detection.md |
 
 ## Completed Security Validations
 
@@ -63,6 +64,15 @@ The lab includes:
 - Wazuh Integration
 - Nmap Reconnaissance Detection
 - Alert Correlation
+
+### Vulnerability Detection
+
+- Vulnerability Module Enabled
+- Vulnerability Feed Download Verification
+- Syscollector Inventory Collection
+- Agent Package Inventory Verification
+- Vulnerability Scan Execution
+- Vulnerability Detection Troubleshooting
 
 ## Project Status
 

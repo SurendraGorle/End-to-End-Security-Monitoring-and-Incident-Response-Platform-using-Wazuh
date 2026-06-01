@@ -46,7 +46,13 @@ Validation:
 Documentation:
 - Documentation/Suricata.md
 
-Vulnerability Detection:
+---
+
+### 3. Vulnerability 
+
+Status: Completed
+
+Process:
 
 * Vulnerability Detection module enabled on Wazuh Manager.
 * Vulnerability feeds downloaded successfully.
@@ -55,6 +61,10 @@ Vulnerability Detection:
 * Vulnerability scans executed successfully.
 * No CVE entries generated during lab testing.
 * Documentation and screenshots completed.
+
+Documentation:
+  - Documentation/Vulnerability.md
+
 
 
 ---
