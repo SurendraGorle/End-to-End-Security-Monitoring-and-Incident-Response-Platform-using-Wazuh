@@ -28,18 +28,18 @@ The lab includes:
 
 ## Current Progress
 
-* [x] Architecture Setup
-* [x] File Integrity Monitoring (FIM)
-* [x] Network Intrusion Detection (Suricata)
-* [ ] Vulnerability Detection
-* [ ] Auditd Monitoring
-* [ ] Custom Rules
-* [ ] SSH Brute Force Detection
-* [ ] Active Response
-* [ ] VirusTotal Integration
-* [ ] Phishing Detection
-* [ ] Host Isolation
-* [ ] Sysmon Integration
+[x] Architecture Setup
+[x] File Integrity Monitoring (FIM)
+[x] Network Intrusion Detection (Suricata)
+[x] Vulnerability Detection
+[ ] Auditd Monitoring
+[ ] Custom Rules
+[ ] SSH Brute Force Detection
+[ ] Active Response
+[ ] VirusTotal Integration
+[ ] Phishing Detection
+[ ] Host Isolation
+[ ] Sysmon Integration
 
 ## Documentation
 

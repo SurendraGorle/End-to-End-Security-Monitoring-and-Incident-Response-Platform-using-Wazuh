@@ -46,10 +46,15 @@ Validation:
 Documentation:
 - Documentation/Suricata.md
 
+Vulnerability Detection:
+
+* Vulnerability Detection module enabled on Wazuh Manager.
+* Vulnerability feeds downloaded successfully.
+* Syscollector verified and collecting software inventory.
+* Ubuntu Agent software inventory collected (732 packages).
+* Vulnerability scans executed successfully.
+* No CVE entries generated during lab testing.
+* Documentation and screenshots completed.
+
+
 ---
-
-Current Phase:
-Network Intrusion Detection Completed
-
-Next Phase:
-Vulnerability Detection
