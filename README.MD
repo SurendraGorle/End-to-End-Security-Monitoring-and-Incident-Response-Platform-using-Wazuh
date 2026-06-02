@@ -77,10 +77,10 @@ The lab includes:
 
 ### Custom Rules
 
-• Local Rule Creation
-• Rule Syntax Validation
-• Test Log Generation
-• Alert Detection in Wazuh
+- Local Rule Creation
+- Rule Syntax Validation
+- Test Log Generation
+- Alert Detection in Wazuh
 
 ## Project Status
 
