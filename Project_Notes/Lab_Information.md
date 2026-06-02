@@ -65,6 +65,24 @@ Process:
 Documentation:
   - Documentation/Vulnerability.md
 
+  ---
+
+  ### 4. Custom Rules:
+
+Status : Completed
+
+Process:
+
+- Custom rule created in local_rules.xml
+- Rule ID: 100100
+- Trigger condition: Custom_Test_Alert
+- Rule syntax validated using wazuh-logtest
+- Test log generated using logger command
+- Alert successfully detected in Wazuh Dashboard
+
+Documentation:
+   - Documentation/Custom_Rules.md
+
 
 
 ---

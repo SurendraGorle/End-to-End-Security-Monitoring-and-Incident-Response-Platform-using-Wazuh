@@ -32,8 +32,8 @@ The lab includes:
 - [x] File Integrity Monitoring (FIM)
 - [x] Network Intrusion Detection (Suricata)
 - [x] Vulnerability Detection
+- [x] Custom Rules
 - [ ] Auditd Monitoring
-- [ ] Custom Rules
 - [ ] SSH Brute Force Detection
 - [ ] Active Response
 - [ ] VirusTotal Integration
@@ -48,6 +48,7 @@ The lab includes:
 | File Integrity Monitoring | Documentation/FIM.md |
 | Suricata IDS Integration | Documentation/Suricata.md |
 | Vulnerability Detection | Documentation/Vulnerability_Detection.md |
+| Custom Rules | Documentation/Custom_Rules.md |
 
 ## Completed Security Validations
 
@@ -73,6 +74,13 @@ The lab includes:
 - Agent Package Inventory Verification
 - Vulnerability Scan Execution
 - Vulnerability Detection Troubleshooting
+
+### Custom Rules
+
+• Local Rule Creation
+• Rule Syntax Validation
+• Test Log Generation
+• Alert Detection in Wazuh
 
 ## Project Status
 
