@@ -33,8 +33,8 @@ The lab includes:
 - [x] Network Intrusion Detection (Suricata)
 - [x] Vulnerability Detection
 - [x] Custom Rules
+- [X] SSH Brute Force Detection
 - [ ] Auditd Monitoring
-- [ ] SSH Brute Force Detection
 - [ ] Active Response
 - [ ] VirusTotal Integration
 - [ ] Phishing Detection
@@ -49,6 +49,7 @@ The lab includes:
 | Suricata IDS Integration | Documentation/Suricata.md |
 | Vulnerability Detection | Documentation/Vulnerability_Detection.md |
 | Custom Rules | Documentation/Custom_Rules.md |
+| SSH Brute Force Detection | Documentation/Ssh_Bruteforce.md |
 
 ## Completed Security Validations
 
@@ -81,6 +82,13 @@ The lab includes:
 - Rule Syntax Validation
 - Test Log Generation
 - Alert Detection in Wazuh
+
+### SSH Brute Force Detection
+
+- SSH Service Verification
+- Failed Login Detection
+- Authentication Failure Alert
+- Brute Force Correlation Alert
 
 ## Project Status
 

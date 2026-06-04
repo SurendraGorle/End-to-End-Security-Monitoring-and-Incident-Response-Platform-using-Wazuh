@@ -131,7 +131,7 @@ Successfully implemented and validated end-to-end Suricata IDS integration with 
 ![01_Pre_Installation_Check](../Screenshots/Suricata/01_Pre_Installation_Check.png)
 
 ### 02_Suricata_Installed
-![02_Suricata_Installed](../Screenshots/Suricata/Suricata/02_Suricata_Installed.png)
+![02_Suricata_Installed](../Screenshots/Suricata/02_Suricata_Installed.png)
 
 ### 03_Suricata_Config_Test_Failed
 ![03_Suricata_Config_Test_Failed](../Screenshots/Suricata/03_Suricata_Config_Test_Failed.png)

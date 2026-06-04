@@ -83,6 +83,21 @@ Process:
 Documentation:
    - Documentation/Custom_Rules.md
 
+   ---
 
+### SSH Brute Force Detection:
+
+Status : Completed
+
+Process:
+
+• SSH Service Verification
+• Failed Login Attempt Generation
+• Authentication Failure Detection
+• SSH Alert Generation in Wazuh
+• Brute Force Correlation Detection
+
+Documentation:
+  - Documentation/Ssh_Bruteforce.md
 
 ---
