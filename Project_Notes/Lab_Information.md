@@ -91,13 +91,36 @@ Status : Completed
 
 Process:
 
-• SSH Service Verification
-• Failed Login Attempt Generation
-• Authentication Failure Detection
-• SSH Alert Generation in Wazuh
-• Brute Force Correlation Detection
+- SSH Service Verification
+- Failed Login Attempt Generation
+- Authentication Failure Detection
+- SSH Alert Generation in Wazuh
+- Brute Force Correlation Detection
 
 Documentation:
   - Documentation/Ssh_Bruteforce.md
+
+  ---
+
+## 5. VirusTotal Integration
+
+Status : Completed
+
+Process:
+
+- VirusTotal API integrated with Wazuh Manager
+- Configuration added in ossec.conf
+- Wazuh Manager restarted successfully
+- FIM configured for real-time monitoring
+- Test file created and analyzed
+- VirusTotal lookup performed successfully
+- EICAR malware test file downloaded
+- Malware detected by VirusTotal (65/67 engines)
+- File deletion detected through FIM
+
+Documentation:
+
+- Documentation/VirusTotal.md
+
 
 ---

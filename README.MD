@@ -9,11 +9,11 @@ The lab includes:
 * File Integrity Monitoring (FIM)
 * Network Intrusion Detection (Suricata)
 * Vulnerability Detection
-* Auditd Monitoring
 * Custom Detection Rules
 * SSH Brute Force Detection
-* Active Response
 * VirusTotal Integration
+* Auditd Monitoring
+* Active Response
 * Phishing Detection
 * Host Isolation
 * Windows Sysmon Integration
@@ -24,7 +24,7 @@ The lab includes:
 | ------------ | --------------- |
 | Wazuh Server | 192.168.163.130 |
 | Ubuntu Agent | 192.168.163.133 |
-| Kali Linux   | 192.168.163.129
+| Kali Linux   | 192.168.163.129 |
 
 ## Current Progress
 
@@ -34,9 +34,9 @@ The lab includes:
 - [x] Vulnerability Detection
 - [x] Custom Rules
 - [X] SSH Brute Force Detection
+- [X] VirusTotal Integration
 - [ ] Auditd Monitoring
 - [ ] Active Response
-- [ ] VirusTotal Integration
 - [ ] Phishing Detection
 - [ ] Host Isolation
 - [ ] Sysmon Integration
@@ -50,6 +50,7 @@ The lab includes:
 | Vulnerability Detection | Documentation/Vulnerability_Detection.md |
 | Custom Rules | Documentation/Custom_Rules.md |
 | SSH Brute Force Detection | Documentation/Ssh_Bruteforce.md |
+| VirusTotal | Documentation/VirusTotal.md |
 
 ## Completed Security Validations
 
@@ -89,6 +90,17 @@ The lab includes:
 - Failed Login Detection
 - Authentication Failure Alert
 - Brute Force Correlation Alert
+
+### VirusTotal Integration
+
+- VirusTotal API Configuration
+- Wazuh Integration Validation
+- File Integrity Monitoring (FIM)
+- Benign File Hash Analysis
+- EICAR Malware Simulation
+- VirusTotal Threat Intelligence Lookup
+- Malware Detection Alert
+- File Deletion Detection
 
 ## Project Status
 
