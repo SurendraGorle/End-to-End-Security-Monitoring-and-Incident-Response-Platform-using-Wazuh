@@ -43,7 +43,7 @@ Created backup of Wazuh configuration file before modifications.
 
 ### Evidence
 
-![01](../Screenshots/VirusTotal/01_Backup_Created.png)
+![01](../Screenshots/VirusTotal/01_OSSEC_Config_Backup.png)
 
 ---
 
@@ -66,7 +66,7 @@ Added VirusTotal API integration in:
 
 ### Evidence
 
-![02](../Screenshots/VirusTotal/02_VirusTotal_Config_Added.png)
+![02](../Screenshots/VirusTotal/02_VirusTotal_Integration_Files_Verified.png)
 
 ---
 
@@ -76,7 +76,7 @@ Validated configuration and restarted Wazuh services.
 
 ### Evidence
 
-![03](../Screenshots/VirusTotal/03_Wazuh_Manager_Restarted.png)
+![03](../Screenshots/VirusTotal/03_VirusTotal_Config_Validated.png)
 
 ---
 
