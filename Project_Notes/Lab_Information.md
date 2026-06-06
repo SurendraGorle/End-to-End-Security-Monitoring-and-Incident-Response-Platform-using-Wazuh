@@ -122,5 +122,31 @@ Documentation:
 
 - Documentation/VirusTotal.md
 
+---
+
+## 6. Active Response
+
+Status : Completed
+
+Process:
+
+- Active Response configuration backed up
+- Active Response section verified in ossec.conf
+- Available response scripts reviewed
+- Firewall environment verified using IPTables
+- firewall-drop Active Response configured
+- Configuration validated successfully
+- Wazuh Manager restarted successfully
+- Rule ID 5710 verified for SSH authentication failures
+- Hydra SSH brute-force attack simulated from Kali Linux
+- SSH authentication failures detected in Wazuh Dashboard
+- firewall-drop Active Response triggered automatically
+- Attacker IP blocked successfully
+- Nmap scan confirmed SSH service blocked
+- IPTables DROP rule verified
+
+Documentation:
+
+- Documentation/Active_Response.md
 
 ---

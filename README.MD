@@ -12,8 +12,8 @@ The lab includes:
 * Custom Detection Rules
 * SSH Brute Force Detection
 * VirusTotal Integration
-* Auditd Monitoring
 * Active Response
+* Auditd Monitoring
 * Phishing Detection
 * Host Isolation
 * Windows Sysmon Integration
@@ -35,8 +35,8 @@ The lab includes:
 - [x] Custom Rules
 - [X] SSH Brute Force Detection
 - [X] VirusTotal Integration
+- [X] Active Response
 - [ ] Auditd Monitoring
-- [ ] Active Response
 - [ ] Phishing Detection
 - [ ] Host Isolation
 - [ ] Sysmon Integration
@@ -51,6 +51,7 @@ The lab includes:
 | Custom Rules | Documentation/Custom_Rules.md |
 | SSH Brute Force Detection | Documentation/Ssh_Bruteforce.md |
 | VirusTotal | Documentation/VirusTotal.md |
+| Active Response | Documentation/Active_Response.md |
 
 ## Completed Security Validations
 
@@ -102,6 +103,21 @@ The lab includes:
 - Malware Detection Alert
 - File Deletion Detection
 
+### Active Response
+
+- Active Response Configuration Backup
+- Active Response Script Verification
+- Firewall Environment Validation
+- firewall-drop Configuration
+- Configuration Validation
+- Wazuh Manager Restart
+- SSH Rule 5710 Verification
+- Hydra SSH Brute Force Simulation
+- SSH Authentication Failure Detection
+- Automated IP Blocking
+- Nmap Block Verification
+- IPTables Rule Verification
+
 ## Project Status
 
-Currently implementing and documenting each security monitoring component with real-world testing, alert generation, investigation workflows, and incident response scenarios.
+Currently implementing and documenting each security monitoring component with real-world testing, alert generation, investigation workflows, incident response scenarios, and automated response mechanisms.
